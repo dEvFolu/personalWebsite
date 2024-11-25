@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: right;
+  padding: 10px;
+  align-items: center;
+  gap: 20px;
+}
+
+li {
+  list-style-type: none;
+  cursor: pointer;
+  font-size: large;
+}
+
+h1 {
+  align-items: center;
+}
